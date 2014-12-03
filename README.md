@@ -53,7 +53,7 @@ The data definitely shows that [users advance carousels at fairly linear rate](#
 
 The ND.edu data was explicitly looking at _clicks_ on slides to measure interaction so to ensure our data maps closely, we should also look at direct interactions. For our carousels, that was the Zoom interaction. The data shows that of the 28% of users that zoomed our carousel, 54.1% zoomed on the first slide. The slide in the second position received 15.7% of all Zoom interactions.
 
-This actually looks similar to Erik's data in that the first slide definitely receives the lion's share of direct interactions. However, the decay in our data is much more reasonable than the ND.edu site's carousel. 45.9% of all direct interactions occur on slides after the first one.
+This actually looks similar to Erik's data in that the first slide receives the majority of direct interactions. However, the decay in our data is much more reasonable than the ND.edu site's carousel. 45.9% of all direct interactions occur on slides after the first one.
 
 > For a complete breakdown of how we found these results, please read the [Findings section](#findings) of the article.
 
